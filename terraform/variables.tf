@@ -31,6 +31,6 @@ variable "instance_type" {
 variable "instance_ami" {
 
 }
-variable "integration_key" {
+variable "keyname" {
   
 }
